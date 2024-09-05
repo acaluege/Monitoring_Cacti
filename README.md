@@ -1,6 +1,9 @@
 ## Instalação e configuração do Cacti na rede corporativa
 
 O Cacti é uma ferramenta de monitoramento e análise de rede muito útil em ambientes corporativos. Sua principal finalidade é coletar e exibir dados de desempenho e disponibilidade de diversos dispositivos e serviços de rede.
+## Em resumo
+O Cacti é uma ferramenta poderosa para monitoramento e análise de rede, fornecendo visibilidade detalhada e dados históricos que ajudam a manter a infraestrutura de TI funcionando de maneira eficiente e eficaz.
+
 * Aqui estão algumas das principais finalidades e benefícios do Cacti em uma rede corporativa:
 **1. Monitoramento de Desempenho:** O Cacti coleta dados de desempenho de dispositivos de rede, servidores e aplicações usando SNMP (Simple Network Management Protocol), sensores e scripts personalizados.
 Ele permite visualizar gráficos de uso de CPU, memória, largura de banda, e outros parâmetros importantes para a saúde da infraestrutura.
@@ -14,5 +17,4 @@ Esses relatórios são úteis para auditorias, apresentações para a gestão e 
 **6. Gerenciamento de Recursos:** Com as informações sobre a utilização de recursos, a equipe de TI pode gerenciar melhor a alocação de recursos, identificar gargalos e otimizar a infraestrutura.
 **7. Compatibilidade com Diversos Dispositivos:** O Cacti suporta uma ampla gama de dispositivos e serviços, incluindo switches, roteadores, servidores, e até mesmo serviços de nuvem, tornando-o uma solução flexível para diferentes ambientes de rede.
 **8. Escalabilidade:** Pode ser configurado para monitorar redes pequenas ou grandes, e pode ser estendido para cobrir novos dispositivos e métricas conforme a rede cresce.
-## Em resumo
-O Cacti é uma ferramenta poderosa para monitoramento e análise de rede, fornecendo visibilidade detalhada e dados históricos que ajudam a manter a infraestrutura de TI funcionando de maneira eficiente e eficaz.
+
